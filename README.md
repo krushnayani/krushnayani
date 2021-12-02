@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krushnayani
-- 👀 I’m interested in AIML
+- 👀 I’m interested in AI & ML
 - 🌱 I’m currently learning CS
 
 <!---
